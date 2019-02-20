@@ -1,0 +1,7 @@
+Notes from GitHub Workshop - Day 2
+
+GitHub is a desktop client that allows you to manage git repositories. It does not allow you to edit your files. To edit use Atom (or Geany, etc.). Atom is created by GitHub to directly link to GitHub online.
+
+Purpose of git - it tracks versions of files. So, it works well to place text files, svg files, or other editable files. It does not work well for static files, like images or PDFs.
+
+You must store any files you want git to track in the directory that has the .git file or a subfolder of this directory (on your local computer).

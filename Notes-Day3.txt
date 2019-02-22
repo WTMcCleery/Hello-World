@@ -1,0 +1,32 @@
+Review:
+
+https://heardlibrary.github.io/digital-scholarship/manage/control/github/
+
+Commits: save over time
+Branching: Separate out your pieces you are working on
+Cloning:
+1. Take what's on cloud and put it on your local computer
+But it will matter what branch you checkout
+Checkout:
+Choose which branch to currently work on - this will automatically change which files are visible on your local computer
+Forking: Copy another repository completely, it is yours and changes to your copy do not change the original (it is a new repository)
+Collaborations models:
+- Shared repository - everyone who has access has control
+  - make a branch, edit, push back to the repository and everyone agrees on merge conflicts
+- Open source (Fork and Pull) - Any one can fork and edit, but push requests have limited access - repo owner can pull changes
+Pull: transfer files between branches
+  - Pull Request: opens a discussion to merge conflicts and results in a pull
+
+Resolving Conflicts:
+Version on repo (online) is updated, but local copy is not
+Committed changes to local copy will not push to repository
+You will be asked to resolve conflicts - easy "use me" button on github
+
+
+Head and Base:
+- User 1 creates a repository
+- User 2 forks the repo (2's copy is not the original any more)
+- If User 2 wants to merge his updated version to User 1:
+User 2 repo is "Head"
+User 1 repo is "Base"
+Pull request will merge from Head to Base

@@ -13,4 +13,6 @@ Forking:
 Use someone else's repository which you cannot directly change. Create a copy, and modify your copy of it. Browse to:
 https://github.com/HeardLibrary/learning-GitHub
 Press Fork on top right
-If you want to keep an updated copy of the repository, you must make a pull request. I assume this will result in conflicts if you've made your own changes. 
+If you want to keep an updated copy of the repository, you must make a pull request. I assume this will result in conflicts if you've made your own changes.
+
+This is a test.  
